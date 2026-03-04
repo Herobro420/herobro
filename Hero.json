@@ -1,4 +1,5 @@
-{
+[
+    {
         "device_id": "device123",
         "username": "user1",
         "password": "pass123",
@@ -12,11 +13,12 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-    {
+     {
         "device_id": "248ef6af63c947f7",
-        "username": "happy",
-        "password": "1266",
-        "expirydate": "7-03-2026",
+        "username": "irfan",
+        "password": "hero420",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+     }
+        
 ]
